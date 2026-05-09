@@ -1,0 +1,13 @@
+# Local IDE / tooling
+.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Build artifacts
+*.o
+*.out
+a.out
+node_modules/
+__pycache__/
+*.pyc
